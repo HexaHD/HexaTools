@@ -14,6 +14,7 @@ Hexa est un outil  basé sur de l'ia du crack et de l'optimisation de temps et d
 Phase de test
 Soon ....
 
+
 Comment aider
 Contacter moi puis payer sur Paypal
 
@@ -24,3 +25,4 @@ Toute forme de rétro-ingénierie ou de décompilation du logiciel est stricteme
 Ce logiciel est la propriété exclusive de son éditeur et est protégé par des droits de propriété intellectuelle.
 Il appartient à notre entreprise HEXOFO.
 
+![image](https://github.com/user-attachments/assets/c5732fb9-5a6e-4f90-a4d2-7fff23992c9a)
