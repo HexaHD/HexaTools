@@ -10,7 +10,7 @@ Documentation (à venir)
 Introduction
 
 Hexa est un outil  basé sur de l'ia du crack et de l'optimisation de temps et de perfomance il integre des logiciele en Python
-
+ajout de la possibilite de ajout ses application
 Phase de test
 Soon ....
 
